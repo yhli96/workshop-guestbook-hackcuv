@@ -1,0 +1,10 @@
+exclude:
+  - .github
+  - vendor
+
+collections:
+  - guestbook
+
+workshop:
+  name: 
+  github: https://github.com/PandelisZ/workshop-guestbook
